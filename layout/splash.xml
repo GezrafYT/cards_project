@@ -15,8 +15,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="CARD GAME"
-        android:textSize="55dp"
-        android:layout_marginBottom="100dp"
+        android:textSize="60dp"
+        android:layout_marginBottom="110dp"
         android:textColor="@color/black">
     </TextView>
 
