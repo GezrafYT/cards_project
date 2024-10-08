@@ -9,15 +9,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".splash"
-    android:background="@color/white">
+    android:background="#EC4E65">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="CARD GAME"
         android:textSize="60dp"
+        android:fontFamily="sans-serif-medium"
         android:layout_marginBottom="110dp"
-        android:textColor="@color/black">
+        android:textColor="#FFFFFF">
     </TextView>
 
 
